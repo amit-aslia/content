@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+</head>
+<body>
+    <div class="timeline-container timeline-theme-1">
+        <div class="timeline js-timeline">
+          <div data-time="2017">
+            your content or markup
+          </div>
+          <div data-time="2016">
+            your content or markup
+          </div>
+          <div data-time="2015">
+            your content or markup
+          </div>
+          <div data-time="2014">
+            your content or markup
+          </div>
+          <div data-time="2013">
+            your content or markup
+          </div>
+        </div>
+      </div>
+      <script type="text/javascript" src="dist/js/timeline.min.js"></script>
+    <script>
+  $(function(){
+        $('.timeline-3').Timeline({
+            autoplay: true,
+          mode: isMobile ? 'horizontal' : 'vertical',
+           // mode: 'horizontal',
+            itemClass: 'box-item',
+            pauseOnDotsHover: 'true'	
+
+        });
+      });
+    </script>
+</body>
+</html>

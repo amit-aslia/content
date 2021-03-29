@@ -1,0 +1,486 @@
+{
+    "status": {
+        "overrides": {
+            "force_logout": false,
+            "force_update": false,
+            "force_password_change": false
+        }
+    },
+    "meta_data": {
+        "offset": null,
+        "limit": null,
+        "sort_by": null,
+        "sort_order": null,
+        "view": null,
+        "total": null
+    },
+    "debug_data": {},
+    "data": {
+        "agent": {
+            "id": 1059714,
+            "created_at": "2017-05-03T12:02:11+05:30",
+            "updated_at": "2020-07-19T02:36:26+05:30",
+            "company_name": "Agent 1059714",
+            "display_name": "Agent 1059714",
+            "profile_picture": "https://img.traveltriangle.com/stage/attachments/tr_a_profiles/2409/original/logo.png?tr=,w-300",
+            "display_rating": 4.0,
+            "agents_converted_trips": 72,
+            "revenue_earned": 5040000,
+            "description": "DiscoverMyTravel has been operating since 2013 and involved itself to a well-respected company amongst its clients. Over the years we have built a wealth of experience and knowledge, enabling us to provide hassle free holiday tours for groups and individual travelers in India.\n\n\n\nOur team in DiscoverMyTravel takes pride in planning outstanding and unforgettable trips, tailored to every individual need and wish. We have developed fantastic itineraries emphasizing culture and scenic beauty of our destinations, which can be customized to fit all of our client’s expectations. We strive to provide exceptional service to our clients, who we don’t think as customers but rather as members of our family\n\n\n\nOur goal is to provide you with a worry free experience so you can just sit back, relax and enjoy your holiday. For that, is very important for the team to gain your trust knowing that we have organized your trip every step of the way and you will be safe and well taken care of.\n\n\n\nOur commitment to you begins with your first inquiry and continues throughout your stay . We pride ourselves on providing you with an itinerary designed for your needs with unlimited modifications possible. While traveling with us our customer service team will keep in constant communication with the tour operation to make sure all your needs are met and all problems resolved as quickly and efficiently as possible. Our whole team is committed to your satisfactions!\n\n\n\nDiscoverMyTravel is an initiative to discover the dreams of traveller for consolidating a position in the market as a brand recognised for its reliability and transparency\n\n\n\nWe provide information, pricing, availability, and booking facility for domestic travel, hotel bookings, holiday packages bus and railway reservations.\n\n\n\nBased in Noida, India, Discover My Travel is a young and dynamic brigade serving you 24x7x365 one-stop-shop for all travel-related services.",
+            "rating_stats": {
+                "one_star": 1,
+                "one_star_percentage": 0.7575757575757576,
+                "three_star": 20,
+                "three_star_percentage": 15.151515151515152,
+                "four_star": 62,
+                "five_star_percentage": 37.121212121212125,
+                "two_star": 0,
+                "two_star_percentage": 0.0,
+                "four_star_percentage": 46.96969696969697,
+                "five_star": 49,
+                "total_positive_rating": 132,
+                "total_rating": 132,
+                "positive_rating": 111,
+                "positive_rating_percentage": 84,
+                "rating_text": "Superb Reviews"
+            },
+            "reviews_count": 132,
+            "email": "UserEmail_1059714@gmail.com",
+            "encrypted_id": "313035393731342d547261-Travel-Agency-2409",
+            "testimonial_url": "https://admin-qa2.ttdev.in/agents/313035393731342d547261-Travel-Agency-2409",
+            "is_blacklisted": false,
+            "is_churned": false
+        },
+        "destination_reviews": [
+            {
+                "destination": "Goa",
+                "testimonials": [
+                    {
+                        "id": 49391,
+                        "title": "Trip to Goa",
+                        "last_updated": "2018-11-30T17:12:12+05:30",
+                        "review_body": "It was very well planed tour.Great comfort",
+                        "destination_name": "Goa",
+                        "rating": 5,
+                        "destination_id": 59,
+                        "author": {
+                            "author_name": "Deepakraj Jambhrunkar",
+                            "author_pic": "https://img.traveltriangle.com/stage/attachments/users/1692276/original/picture?tr=,w-100,h-100",
+                            "designation": null,
+                            "message": "Aurangabad, Maharashtra, India",
+                            "user_location": null
+                        },
+                        "formatted_created_at": "Nov 30, 2018",
+                        "miscellaneous_info": "Aurangabad, Maharashtra, India"
+                    }
+                ]
+            },
+            {
+                "destination": "Himachal",
+                "testimonials": [
+                    {
+                        "id": 87524,
+                        "title": "Trip to Himachal",
+                        "last_updated": "2020-03-26T19:13:55+05:30",
+                        "review_body": "Nice and fresh tripManali stay",
+                        "destination_name": "Himachal",
+                        "rating": 3,
+                        "destination_id": 166,
+                        "author": {
+                            "author_name": "User Email ",
+                            "author_pic": "",
+                            "designation": null,
+                            "message": "Kolkata",
+                            "user_location": null
+                        },
+                        "formatted_created_at": "Mar 26, 2020",
+                        "miscellaneous_info": "Kolkata"
+                    },
+                    {
+                        "id": 87218,
+                        "title": "Trip to Himachal",
+                        "last_updated": "2020-03-16T10:42:16+05:30",
+                        "review_body": "It's was very awesome trips thanks to travel triangle.Driver is very polite and manners. Well experienced drive in route.Solang valley and river rafting in Manali, Horse riding,Mall road and fun activities in shimla.",
+                        "destination_name": "Himachal",
+                        "rating": 5,
+                        "destination_id": 166,
+                        "author": {
+                            "author_name": "Harish Singh",
+                            "author_pic": "https://img.traveltriangle.com/stage/attachments/users/3962456/original/AAuE7mDJVHatSDaSktEL706CA_56DvXUKINdVkQRQbsZ_s50?tr=,w-100,h-100",
+                            "designation": null,
+                            "message": "Bangalore,  Karnataka",
+                            "user_location": null
+                        },
+                        "formatted_created_at": "Mar 15, 2020",
+                        "miscellaneous_info": "Bangalore,  Karnataka"
+                    },
+                    {
+                        "id": 86795,
+                        "title": "Trip to Himachal",
+                        "last_updated": "2020-03-09T16:02:29+05:30",
+                        "review_body": "wonderful experience snowfall ,  valley ",
+                        "destination_name": "Himachal",
+                        "rating": 5,
+                        "destination_id": 166,
+                        "author": {
+                            "author_name": "User Email ",
+                            "author_pic": "",
+                            "designation": null,
+                            "message": "Patiala",
+                            "user_location": ", "
+                        },
+                        "formatted_created_at": "Mar 09, 2020",
+                        "miscellaneous_info": "Patiala"
+                    },
+                    {
+                        "id": 86237,
+                        "title": "Trip to Himachal",
+                        "last_updated": "2020-03-03T14:49:25+05:30",
+                        "review_body": "Reasons for Bad Rating.. 1. After trip starts your agent denied for Online Payment & asked us to pay money in cash to Driver.  In which I have no evidence of payment. & you have no receipts or details of that payment(Breach of Travel triangle policy....)2. Drive intentionally brought us to the places where he can get good comission. He denied to take us to Solang valley by CAR but asked us to pay for Hampta Pass.(Drivers are not trustworthy, but we trusted Travel Traingle. Again you Failed).3. Your agent Discover My Travel promised us to get a good car. But he send us old inefficient car.(Its tires were totally worn out. & he changed two tyres during traivelling because of Tyre failures. In such areas you should have good tyre otherwise your life can be at Risk. We are sorry to choose you).4. At Dharamshala, Driver dropped us as Dharamshala in the evening at hotel & went to his own home for 1.5 days. & he asked us to walk & travel on our own.(Which kind of Proffessionalism is this ? Will you expect this with your travel agent ?)5. At Dalhousie as Khajjiar was closed. He told us to roam around on our own. As he wanted to rest at hotel.Good Points: 1. Hotels were good(We chose it after much internet surfing & reading reviews. Though thank you for booking).2. Your partner (discover my travel) is good. But driver he found was not good. Conclusion : 1. We can not trust your words. You change them anytime.2. Your partner does not have enough skill to provide good hospitality to travellers as driver/car is the most important part when you have to travel a lot.3. Payment terms must not be changed in any case. (half cash / half online is not good).",
+                        "destination_name": "Himachal",
+                        "rating": 3,
+                        "destination_id": 166,
+                        "author": {
+                            "author_name": "User Email ",
+                            "author_pic": "",
+                            "designation": null,
+                            "message": "Delhi, India",
+                            "user_location": null
+                        },
+                        "formatted_created_at": "Mar 02, 2020",
+                        "miscellaneous_info": "Delhi, India"
+                    },
+                    {
+                        "id": 85595,
+                        "title": "Trip to Himachal",
+                        "last_updated": "2020-02-25T16:06:11+05:30",
+                        "review_body": "Hotel was not good",
+                        "destination_name": "Himachal",
+                        "rating": 4,
+                        "destination_id": 166,
+                        "author": {
+                            "author_name": "Shailesh Pal",
+                            "author_pic": "",
+                            "designation": null,
+                            "message": "Delhi",
+                            "user_location": ", "
+                        },
+                        "formatted_created_at": "Feb 25, 2020",
+                        "miscellaneous_info": "Delhi"
+                    },
+                    {
+                        "id": 85297,
+                        "title": "Trip to Himachal",
+                        "last_updated": "2020-02-22T17:58:05+05:30",
+                        "review_body": "Very good trip. Everything was well arranged and coordinated :)",
+                        "destination_name": "Himachal",
+                        "rating": 5,
+                        "destination_id": 166,
+                        "author": {
+                            "author_name": "Ramkumar Baskaran",
+                            "author_pic": "https://img.traveltriangle.com/stage/attachments/users/4355651/original/AAuE7mCt-4b-iEjuWXLAzkOHBd7CJBMsdpUlXCgMnp_tqA_s50?tr=,w-100,h-100",
+                            "designation": null,
+                            "message": "Chennai",
+                            "user_location": ", "
+                        },
+                        "formatted_created_at": "Feb 22, 2020",
+                        "miscellaneous_info": "Chennai"
+                    },
+                    {
+                        "id": 84465,
+                        "title": "Trip to Himachal",
+                        "last_updated": "2020-02-14T18:19:09+05:30",
+                        "review_body": "Hotel experience was great...would definitely recommend itCab was clean but cab driver was rash driving in mountains. He was putting.our lives at risk.I believe the travel agent overcharged the whole trip... Looking at the interary the whole trip shouldnot have been charged more than 23-24000 inr. Rest apart the agency was prompt in their responses.",
+                        "destination_name": "Himachal",
+                        "rating": 3,
+                        "destination_id": 166,
+                        "author": {
+                            "author_name": "Sekhar Kesharpu",
+                            "author_pic": "https://img.traveltriangle.com/stage/attachments/users/995332/original/photo.jpg?tr=,w-100,h-100",
+                            "designation": null,
+                            "message": "New Delhi",
+                            "user_location": ", "
+                        },
+                        "formatted_created_at": "Feb 14, 2020",
+                        "miscellaneous_info": "New Delhi"
+                    },
+                    {
+                        "id": 84204,
+                        "title": "Trip to Himachal",
+                        "last_updated": "2020-02-11T18:49:51+05:30",
+                        "review_body": "Good ",
+                        "destination_name": "Himachal",
+                        "rating": 4,
+                        "destination_id": 166,
+                        "author": {
+                            "author_name": "User Email ",
+                            "author_pic": "",
+                            "designation": null,
+                            "message": "thrivandrum",
+                            "user_location": null
+                        },
+                        "formatted_created_at": "Feb 11, 2020",
+                        "miscellaneous_info": "thrivandrum"
+                    },
+                    {
+                        "id": 83033,
+                        "title": "Trip to Himachal",
+                        "last_updated": "2020-01-25T14:52:09+05:30",
+                        "review_body": "An Amazing Experience..Than you Travel Triangle",
+                        "destination_name": "Himachal",
+                        "rating": 4,
+                        "destination_id": 166,
+                        "author": {
+                            "author_name": "Vaishali Jorwekar",
+                            "author_pic": "https://img.traveltriangle.com/stage/attachments/users/4200679/original/AAuE7mDrRcoj9q9hWVhnh5fNjpCFn3KbEauKqmcIaKli4A_s50?tr=,w-100,h-100",
+                            "designation": null,
+                            "message": "Pune, India",
+                            "user_location": null
+                        },
+                        "formatted_created_at": "Jan 25, 2020",
+                        "miscellaneous_info": "Pune, India"
+                    },
+                    {
+                        "id": 83009,
+                        "title": "Trip to Himachal",
+                        "last_updated": "2020-01-25T10:42:34+05:30",
+                        "review_body": "Tour was good ...especially the cab driver good ....didn't di rash driving....delhi hotel was ok...shimla good....manali too good and the best stay in whole tourManali stay manali stay five star..",
+                        "destination_name": "Himachal",
+                        "rating": 4,
+                        "destination_id": 166,
+                        "author": {
+                            "author_name": "Antony John",
+                            "author_pic": "https://img.traveltriangle.com/stage/attachments/users/2712478/original/photo.jpg?tr=,w-100,h-100",
+                            "designation": null,
+                            "message": "Tiruchi, India",
+                            "user_location": null
+                        },
+                        "formatted_created_at": "Jan 25, 2020",
+                        "miscellaneous_info": "Tiruchi, India"
+                    }
+                ]
+            },
+            {
+                "destination": "Kerala",
+                "testimonials": [
+                    {
+                        "id": 88690,
+                        "title": "Trip to Kerala",
+                        "last_updated": "2020-04-07T11:32:33+05:30",
+                        "review_body": "overall it was great experienceoverall it was great experience",
+                        "destination_name": "Kerala",
+                        "rating": 4,
+                        "destination_id": 56,
+                        "author": {
+                            "author_name": "User Email ",
+                            "author_pic": "",
+                            "designation": null,
+                            "message": "Chennai",
+                            "user_location": null
+                        },
+                        "formatted_created_at": "Apr 07, 2020",
+                        "miscellaneous_info": "Chennai"
+                    },
+                    {
+                        "id": 88680,
+                        "title": "Trip to Kerala",
+                        "last_updated": "2020-04-07T11:04:05+05:30",
+                        "review_body": "cab driver was very good ...munnar hotel was just ok otherwise all things were good...i have referred travel triangle to my friends also  everything was very good",
+                        "destination_name": "Kerala",
+                        "rating": 4,
+                        "destination_id": 56,
+                        "author": {
+                            "author_name": "Astha Srivastava",
+                            "author_pic": "https://img.traveltriangle.com/stage/attachments/users/3537556/original/picture?tr=,w-100,h-100",
+                            "designation": null,
+                            "message": "Delhi",
+                            "user_location": null
+                        },
+                        "formatted_created_at": "Apr 07, 2020",
+                        "miscellaneous_info": "Delhi"
+                    },
+                    {
+                        "id": 88559,
+                        "title": "Trip to Kerala",
+                        "last_updated": "2020-04-06T12:18:51+05:30",
+                        "review_body": "Overall experience was good, only at Hotel seasons,thekkady, the service was not upto the mark.appreciation for the cab driver.",
+                        "destination_name": "Kerala",
+                        "rating": 4,
+                        "destination_id": 56,
+                        "author": {
+                            "author_name": "Rashmi Banjare",
+                            "author_pic": "https://img.traveltriangle.com/stage/attachments/users/3354578/original/photo.jpg?tr=,w-100,h-100",
+                            "designation": null,
+                            "message": "Kochi, Kerala, India",
+                            "user_location": null
+                        },
+                        "formatted_created_at": "Apr 06, 2020",
+                        "miscellaneous_info": "Kochi, Kerala, India"
+                    },
+                    {
+                        "id": 87581,
+                        "title": "Trip to Kerala",
+                        "last_updated": "2020-03-28T12:54:19+05:30",
+                        "review_body": "The trip was good and well managed. ",
+                        "destination_name": "Kerala",
+                        "rating": 5,
+                        "destination_id": 56,
+                        "author": {
+                            "author_name": "Vidhya Arjunan",
+                            "author_pic": "https://img.traveltriangle.com/stage/attachments/users/1978992/original/picture?tr=,w-100,h-100",
+                            "designation": null,
+                            "message": "Rajapalayam",
+                            "user_location": null
+                        },
+                        "formatted_created_at": "Mar 28, 2020",
+                        "miscellaneous_info": "Rajapalayam"
+                    },
+                    {
+                        "id": 86507,
+                        "title": "Trip to Kerala",
+                        "last_updated": "2020-03-04T17:59:22+05:30",
+                        "review_body": "Services of travel agent superbCab driver excellentHotel very good",
+                        "destination_name": "Kerala",
+                        "rating": 5,
+                        "destination_id": 56,
+                        "author": {
+                            "author_name": "User Email ",
+                            "author_pic": "",
+                            "designation": null,
+                            "message": "Bangalore, कर्नाटक, भारत",
+                            "user_location": ", "
+                        },
+                        "formatted_created_at": "Mar 04, 2020",
+                        "miscellaneous_info": "Bangalore, कर्नाटक, भारत"
+                    },
+                    {
+                        "id": 85481,
+                        "title": "Trip to Kerala",
+                        "last_updated": "2020-02-24T16:21:37+05:30",
+                        "review_body": "We traveled to Kerala for 9 days with Discover My Travel. We had amazing experiences and I would like to continue my other journeys with the same agent. Thank you so much for your assistance.",
+                        "destination_name": "Kerala",
+                        "rating": 4,
+                        "destination_id": 56,
+                        "author": {
+                            "author_name": "Diyu Omkar",
+                            "author_pic": "https://img.traveltriangle.com/stage/attachments/users/422763/original/photo.jpg?tr=,w-100,h-100",
+                            "designation": null,
+                            "message": "Mumbai",
+                            "user_location": ", "
+                        },
+                        "formatted_created_at": "Feb 24, 2020",
+                        "miscellaneous_info": "Mumbai"
+                    },
+                    {
+                        "id": 83945,
+                        "title": "Trip to Kerala",
+                        "last_updated": "2020-02-07T20:21:59+05:30",
+                        "review_body": "The trip was very nicely organized. Apart from few scenarios such as sightseeing was less and no activities was included in the package. On our trip to Andaman last time we were provided with complimentary activity vouchers. Also the houseboat quality was gud but the experience wasn't great enough, also the hospitality in the houseboat wasn't great enough. Overall  improvement is needed.Special thanks to Sunaina for always being patient and attending to my queries and expectations promptly.Also another thiing which I didnt like at all was the net banking or debit/card fees being charged while making online payments, it was quite a considerable amount, would ask you guys/Travel triangle to try atleast reduce the same if not possible to remove entirely.",
+                        "destination_name": "Kerala",
+                        "rating": 4,
+                        "destination_id": 56,
+                        "author": {
+                            "author_name": "User Email ",
+                            "author_pic": "",
+                            "designation": null,
+                            "message": "Kolkata, West Bengal, India",
+                            "user_location": null
+                        },
+                        "formatted_created_at": "Feb 07, 2020",
+                        "miscellaneous_info": "Kolkata, West Bengal, India"
+                    },
+                    {
+                        "id": 83641,
+                        "title": "Trip to Kerala",
+                        "last_updated": "2020-02-03T22:25:49+05:30",
+                        "review_body": "travel traingle is best way to plan a tour ill suggest my friend to take a tour plan travel triangle..back water house boat ",
+                        "destination_name": "Kerala",
+                        "rating": 3,
+                        "destination_id": 56,
+                        "author": {
+                            "author_name": "Job In",
+                            "author_pic": "https://img.traveltriangle.com/stage/attachments/users/3818792/original/AAuE7mDJn_zOAUTQ3LRJO8TjGd9gYbx84tVfGUWkWFrEyw_s96-c?tr=,w-100,h-100",
+                            "designation": null,
+                            "message": "New Delhi",
+                            "user_location": null
+                        },
+                        "formatted_created_at": "Feb 03, 2020",
+                        "miscellaneous_info": "New Delhi"
+                    },
+                    {
+                        "id": 83510,
+                        "title": "Trip to Kerala",
+                        "last_updated": "2020-02-01T10:39:19+05:30",
+                        "review_body": "Verry good experience Good",
+                        "destination_name": "Kerala",
+                        "rating": 5,
+                        "destination_id": 56,
+                        "author": {
+                            "author_name": "User Email ",
+                            "author_pic": "",
+                            "designation": null,
+                            "message": "Vadodara",
+                            "user_location": null
+                        },
+                        "formatted_created_at": "Feb 01, 2020",
+                        "miscellaneous_info": "Vadodara"
+                    },
+                    {
+                        "id": 83082,
+                        "title": "Trip to Kerala",
+                        "last_updated": "2020-01-26T16:10:23+05:30",
+                        "review_body": "Trip was good..Though only low point was that hotel in Munnar i.e Spice Jungle was not good...The hotel was in delapidated state...broken and old furniture and not even providing mineral water bottles..Had to specifically ask for kettle as they did not provide that too...All other things were ok...And the worst part on the travel triangle team was that they did not provide the coupon vouchures and none of their customer service team were willing to help and even did not have the courtesy to call even once though they had appointed someone for our travel and even our calls were left unanswered by their team members...So pathetic service by travel triangle team..",
+                        "destination_name": "Kerala",
+                        "rating": 4,
+                        "destination_id": 56,
+                        "author": {
+                            "author_name": "User Email ",
+                            "author_pic": "",
+                            "designation": null,
+                            "message": "New Delhi, India",
+                            "user_location": null
+                        },
+                        "formatted_created_at": "Jan 26, 2020",
+                        "miscellaneous_info": "New Delhi, India"
+                    }
+                ]
+            }
+        ],
+        "review_pics": [
+            {
+                "id": 3348,
+                "large_image": "https://img.traveltriangle.com/stage/attachments/review_pics/3348/original/IMG-20160315-WA0003.jpg?tr=,w-630"
+            },
+            {
+                "id": 3345,
+                "large_image": "https://img.traveltriangle.com/stage/attachments/review_pics/3345/original/20170821_162639.jpg?tr=,w-630"
+            },
+            {
+                "id": 3346,
+                "large_image": "https://img.traveltriangle.com/stage/attachments/review_pics/3346/original/20170821_162657.jpg?tr=,w-630"
+            },
+            {
+                "id": 3347,
+                "large_image": "https://img.traveltriangle.com/stage/attachments/review_pics/3347/original/IMG-20160315-WA0002.jpg?tr=,w-630"
+            }
+        ],
+        "destination_reviews_counts": [
+            {
+                "name": "Kerala",
+                "count": 102
+            },
+            {
+                "name": "Himachal",
+                "count": 27
+            },
+            {
+                "name": "Goa",
+                "count": 1
+            }
+        ],
+        "is_public_user": false
+    },
+    "code": 200,
+    "error_details": [],
+    "errors": []
+}

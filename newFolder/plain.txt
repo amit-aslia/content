@@ -1,0 +1,52 @@
+Do we need to use arrow function in onClick, It depends on the situation
+
+1. Not to use arrow function
+   1. When your function don't contain any argument. 
+   2. using some global variable or props , etc in the arguments or inside function.
+
+Example 1.
+
+const sayHello = () => console.log('Hello world');
+
+<button onClick={sayHello}></button>  // passing address of sayHello function.
+
+What If we use brackets followed by function name  // Bad way
+
+<button onClick={sayHello()}></button>
+
+// If we do this, whenever the component render sayHello() function is executed and return undefined
+    so onClick will be like after component render
+    
+    onClick={undefined} // So when we actually click the button it refernce to undefined and nothing will happen.
+
+Example 2.
+
+const message = 'Hello world' // global variable
+const giveMessage = (message) => console.log(message);
+
+<button onClick={sayHello}></button>  // this is proper way because argument is present gloabally.
+
+When you need to send custom argument You need to use arrow function
+
+example: 
+
+ const sayHello = (name) => console.log('hello',name);
+
+ <button onClick={() => sayHello('amit')}></button>
+
+ -> arrow functions handles the this context in a lexical way, this bound to the nearest this.
+ when component render () => sayHello(name) create a new instance.
+
+ -> Now If you dont want to use callbacks or arrow function even though you need to pass custom argument.
+
+Soln: use currying techniques.
+
+    example: 
+    const sayHello = name => () => console.log('Hello',name);
+
+    <button onClick={sayHello('amit')}></button>
+
+    -> Now when component render sayHello('amit') will get execute and it will return a function () => console('Hello',name);
+        and name is closure to that anonymous function.
+
+

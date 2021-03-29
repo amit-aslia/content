@@ -1,0 +1,36 @@
+As she know basic of React,
+  ask about React version, why she is looking for react,
+    come to JS,
+  differnce between let var const ,
+    hoisting,
+    Pure function,
+why we use pure function,
+Immutability,
+  is Immutablity always useful, is it always enhance React speed,
+    SubQuestion:
+If Yes / no, why, (Ans: Incase of big object or array of object copying operation gets expensive to overcome them we use immer or immutableJS)
+        Array and Object,
+  How can we compare Object and Array,
+    What is deep copy and shallow copy,
+      How to copy nested object into a variable(Shallow copy and deep copy problem),
+
+        High Order funtion
+Why we use high order function,
+closure concept in btw,
+  den Apply call and bind Method
+Ask currying techniqe If she answer above question,
+  Event bubbling and capturing,
+    Diffence between debouncing and throttling, When to use debouncing and throttling,
+      PropTypes and Proptypal Inheritance,
+
+        Come to async,
+          Promises,
+          Settimeout,
+          Ask question on event loop on basis of promise and setTimeout, /
+Differnce between Macro task queue and micro task queue, What is the order and priority,
+
+  Come to React,
+    Why many times render function get called in development version(It is 2 times because of React.Strict mode,
+      to avoid sideEffect btw first render and differnet lifecycles)
+Hooks(useEffect me pooch lena), custom hooks,
+  React tho dhek lena aap
